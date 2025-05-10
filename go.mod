@@ -1,10 +1,10 @@
-module github.com/libdns/dreamhost
+module github.com/grumpygabe/libdns-dreamhost
 
 go 1.18
 
 require (
 	github.com/adamantal/go-dreamhost v0.1.1
-	github.com/libdns/libdns v0.2.2
+	github.com/libdns/libdns v1.0.0-beta.1
 )
 
 require (
